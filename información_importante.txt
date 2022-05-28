@@ -1,0 +1,1 @@
+Debido a algunos inconvenientes, se borró todo y se empezó desde cero con el repositorio. Las razón de ello es que me gustaría reestructurar todo de una mejor forma para que esté más bonito, y como tampoco había añadido especialmente muchas cosas, pensé que lo mejor sería borrar todo lo anterior (incluyendo las ramas creadas que existían) y empezar desde cero.
