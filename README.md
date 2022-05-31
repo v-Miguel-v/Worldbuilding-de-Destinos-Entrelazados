@@ -10,7 +10,7 @@
 
 ------------
 
-## El Cosmos:
+## El Cosmos
 El Universo de Destinos Entrelazados es un tanto peculiar... Al punto de que, incluso a simple vista, tiene varios rasgos que lo diferencian bastante de Nuestro Mundo.
 
 Uno de esos rasgos es su **tamaño**, el cual es de solo 1 año luz, lo que se traduce en que TODO el Universo de Destinos Entrelazados: Incluyendo el basto espacio exterior y los cuerpos celestes que lo conforman... Apenas es ligeramente más grande que el tamaño del Sistema Solar de Nuestro Mundo.
