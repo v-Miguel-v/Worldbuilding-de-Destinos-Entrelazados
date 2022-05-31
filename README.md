@@ -19,7 +19,7 @@ Esta curiosa propiedad provoca en el Universo de Destinos Entrelazados *(UDE a p
 
 La primera y quizás más obvia es el hecho de que, dado que el tamaño del universo es tan pequeño, *no existen varios de los principales objetos astronómicos que sí hay en nuestro mundo*.
 
-Por supuesto existen Asteroides, Cometas, Lunas, Planetas e incluso el Sol... Pero cuerpos celestes y entidades físicas más grandes como lo son las Galaxias, las Nebulosas o los Agujeros Negros y las Estrellas Supermavisas... Directamente son incapaces de existir debido a que el tamaño de estas colosales estructuras son fácilmente varias veces más grandes que el tamaño máximo del UDE.
+Por supuesto existen Asteroides, Cometas, Lunas, Planetas e incluso el Sol... Pero cuerpos celestes y entidades físicas más grandes como lo son las Galaxias, las Nebulosas o los Agujeros Negros y las Estrellas Supermasivas... Directamente son incapaces de existir debido a que el tamaño de estas colosales estructuras son fácilmente varias veces más grandes que el tamaño máximo del UDE.
 
 No obstante, incluso si ignoramos lo anterior y solo nos centramos en aquellos objetos astronómicos que sí existen en el UDE... Llegamos a su segunda cualidad curiosa: *No hay incontables estrellas*.
 
