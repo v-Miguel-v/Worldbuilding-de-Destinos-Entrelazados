@@ -25,11 +25,11 @@ No obstante, incluso si ignoramos lo anterior y solo nos centramos en aquellos o
 
 Debido a su tamaño, en el UDE no hay una infinidad de estrellas, ni tampoco de planetas u otros cuerpos celestes. Existe una cantidad finita y perfectamente cuantificable de objetos cósmicos. Siendo específicos... El UDE posee solo 1 única verdadera estrella y solo 5 planetas.
 
-Cielos Nocturnos Vacíos
 **¡Espera! Eso quiere decir que... ¿En las noches el cielo nocturno está completamente a oscuras? ¿Solo se ve el vacío negro del espacio?** Pues... Sí y No.
 
 Es cierto que cuando es de noche en el UDE el cielo está prácticamente sumergido en la oscuridad total debido a la gran falta de estrellas que posee si lo comparamos con Nuestro Propio Mundo, al fin y al cabo los únicos objetos que podrían iluminar mínimamente la noche serían —además de la Luna— los demás planetas y quizás algún que otro cometa o estrella fugaz que pasen por casualidad.
 
-Sin embargo, aunque pueda parecer extraño de primeras tras todo lo dicho con anterioridad... <u>*Sí se pueden ver &quot;estrellas&quot; e incluso &quot;constelaciones&quot;*</u> en el cielo nocturno del UDE. Y precisamente de ello tratará el siguiente punto~
+Sin embargo, aunque pueda parecer extraño de primeras tras todo lo dicho con anterioridad... *Sí se pueden ver &quot;estrellas&quot; e incluso &quot;constelaciones&quot;* en el cielo nocturno del UDE. Y precisamente de ello tratará el siguiente punto~
 
 ## ¿Estrellas y Constelaciones?
+
