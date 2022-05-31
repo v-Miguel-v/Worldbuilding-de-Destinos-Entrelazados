@@ -6,7 +6,7 @@
 > 
 > *Es solo info desordenada sin más.*
 > 
-> *La finalidad de esto es el registrar todo lo que se me vaya ocurriendo sobre el mundo de Destinos Entrelazados, para posteriormente organizarlo y ponerlo bonito para cuando se vaya a elaborar la futura página web.*
+> *La finalidad de esto es registrar todo lo que se me vaya ocurriendo sobre el mundo de Destinos Entrelazados, para posteriormente organizarlo y ponerlo bonito para cuando se vaya a elaborar la futura página web.*
 
 ------------
 
