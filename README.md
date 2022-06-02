@@ -29,12 +29,12 @@ Debido a su tamaño, en el UDE no hay una infinidad de estrellas, ni tampoco de 
 
 Es cierto que cuando es de noche en el UDE el cielo está prácticamente sumergido en la oscuridad total debido a la gran falta de estrellas que posee si lo comparamos con Nuestro Propio Mundo, al fin y al cabo los únicos objetos que podrían iluminar mínimamente la noche serían —además de la Luna— los demás planetas y quizás algún que otro cometa o estrella fugaz que pasen por casualidad.
 
-Sin embargo, aunque pueda parecer extraño de primeras tras todo lo dicho con anterioridad... *Sí se pueden ver "estrellas" e incluso "constelaciones"* en el cielo nocturno del UDE. Y precisamente de ello tratará el siguiente punto~
+Sin embargo, aunque pueda parecer extraño de primeras tras todo lo dicho con anterioridad... *Sí se pueden ver "estrellas" e incluso "constelaciones"* en el cielo nocturno del UDE. Y precisamente de ello tratará el siguiente punto.
 
 ## ¿Estrellas y Constelaciones?
 Como se mencionó antes, la única estrella **verdadera** es el Sol. Este es el único cuerpo celeste en todo el UDE que posee —propiamente hablando— las mismas características y cualidades de una estrella como las que hay en Nuestro Mundo.
 
-Pero, si eso es así, *¿cómo es posible que de noche se pueda ver un cielo estrellado e incluso constelaciones?* Sencillo~ Porque todas esas son "**estrellas falsas**".
+Pero, si eso es así, *¿cómo es posible que de noche se pueda ver un cielo estrellado?* Sencillo~ Porque todas esas son "**estrellas falsas**".
 
 Varias Deidades del UDE tienen la capacidad de crear estas "estrellas", y son la razón por la cual cuando es de noche se puede ver un cielo parcialmente iluminado y cubierto por constelaciones a pesar de que el cosmos no está plagado con una infinidad de ellas.
 
@@ -49,10 +49,17 @@ En el UDE, por el contrario, el Sol es único. No hay más ningún otro en todo 
 ## Circunnavegación Cósmica
 Regresando a los rasgos únicos que posee el UDE, este es circunnavegable. ¿Eso que quiere decir? Que si vas en cualquier dirección en línea recta, eventualmente regresarás al punto del cual partiste. En otras palabras: Se le puede dar la vuelta al Universo.
 
-Si abordas una nave espacial, y partes desde la Tierra hacia cualquier dirección en completa línea recta, tras recorrer una distancia de 1 año luz, volverías a llegar a la Tierra. Le habrías dado la vuelta al Universo.
+Si abordas una nave espacial, y partes desde la Tierra hacia cualquier dirección en línea recta sin detenerte, tras recorrer una distancia de 1 año luz, volverías a llegar a la Tierra. Le habrías dado la vuelta al Universo.
 
-Vinculando esto con el punto anterior... ¿Qué pasaría si, con una nave espacial, se intentara ir hacia alguna de las "estrellas" del UDE? ¿Se podría llegar a ellas? La respuesta es no~ Como se explicó en la analogía de antes, si visualizamos el UDE como una esfera de cristal, las estrellas se ubicarían en la parte externa de la esfera; sobre la superficie, como si alguien con un marcador las hubiera dibujado allí. Por tanto, sin importar qué tanto viajes o qué tan rápido vayas, siempre verías las estrellas a la misma distancia: No se alejarían ni se acercarían. En cierta forma, es como si se encontraran en otra capa que provoca un efecto visual en el interior de la esfera, haciendo que siempre se vean a la misma distancia sin importar qué tanto te intentes acercar o alejar de ellas.
+Vinculando esto con el punto anterior... **¿Qué pasaría si, con una nave espacial, se intentara ir hacia alguna de las "estrellas" del UDE? ¿Se podría llegar a ellas?** La respuesta es no~ Como se explicó en la analogía de antes, si visualizamos el UDE como una esfera de cristal, las estrellas se ubicarían en la parte externa de la esfera; sobre la superficie, como si alguien con un marcador las hubiera dibujado allí. Por tanto, sin importar qué tanto viajes o qué tan rápido vayas, siempre verías las estrellas a la misma distancia: No se alejarían ni se acercarían. En cierta forma, es como si se encontraran en una capa externa que provoca un efecto visual en el interior de la esfera, haciendo que siempre se vean a la misma distancia sin importar qué tanto te intentes acercar o alejar de ellas.
 
-## Deidades
-Continuando con el tema de las "estrellas"... ¿Por qué las Deidades querrían crearlas?
-> (recuerda mencionar el hecho de que, a pesar de que hay estrellas, hay muchísimas menos que en nuestro mundo, y nunca una noche estrellada del UDE podría compararse con las más estrelladas de nuestro mundo)
+## Catasterizar
+Continuando con el tema de las "estrellas"... ¿Por qué las Deidades querrían crearlas? Las razones pueden ser muy variadas *—al fin y al cabo cada Deidad tiene sus propios intereses y su propia forma para hacer las cosas—*, pero en general, una de las principales razones suele ser el hecho de querer plasmar un evento importante en la eternidad del cosmos.
+
+En cierta forma, se podría decir que para algunas Deidades no hay mejor lienzo en el mundo que el mismo cosmos, el cual no solo es eterno por naturaleza, sino que también es directamente omnipresente, por lo que cualquiera sin importar qué, con alzar la mirada en una noche oscura, sería capaz de admirar y presenciar lo que sea que hubieran plasmado allí: Quizás un gran acto heroico, un sacrificio por un bien mayor, o tal vez un castigo por haber traicionado u ofendido a un Dios. Cualquiera de estos eventos (y en cierta forma cualquier otro imaginable) pueden provocar que una Deidad decida hacer uso de su poder divino para retratar o incluso directamente convertir dicho evento en una constelación que condecore el cielo nocturno para siempre.
+
+Esta poder que poseen solo algunas Deidades se conoce como "**Catasterizar**".
+
+No obstante, es importante recalcar que, incluso tomando en cuenta las catasterizaciones que han realizado las deidades, el cielo nocturno del UDE sigue estando prácticamente a oscuras en comparación con el de Nuestro Mundo, y la razón de ello es sencillamente el hecho de que siguen siendo muy pocas estrellas, y que sin importar qué tantos eventos importantes hayan ocurrido o qué tantas deidades distintas hayan usado sus poderes divinos para crear estrellas, todas ellas no se podrían siquiera acercar a la amplia infinidad que tenemos en Nuestro Mundo.
+
+***Por tanto, sí, es un hecho: El cielo nocturno del UDE es prácticamente oscuro. Hay muchas estrellas y constelaciones, pero ni todas ellas juntas pueden iluminar y producir un cielo estrellado tan impresionante como el de Nuestro Propio Mundo.***
