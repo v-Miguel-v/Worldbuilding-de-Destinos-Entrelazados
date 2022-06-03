@@ -96,7 +96,7 @@ De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una 
 
 En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa de la Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
 
-Sin embargo, inspirado (o directamente copiado) un poquito del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en las que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí el hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+Sin embargo, inspirado (o directamente copiado) un poquito del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en las que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
 
 De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
 
