@@ -1,3 +1,4 @@
+
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -63,3 +64,42 @@ Esta poder que poseen solo algunas Deidades se conoce como "**Catasterizar**".
 No obstante, es importante recalcar que, incluso tomando en cuenta las catasterizaciones que han realizado las deidades, el cielo nocturno del UDE sigue estando prácticamente a oscuras en comparación con el de Nuestro Mundo, y la razón de ello es sencillamente el hecho de que siguen siendo muy pocas estrellas, y que sin importar qué tantos eventos importantes hayan ocurrido o qué tantas deidades distintas hayan usado sus poderes divinos para crear estrellas, todas ellas no se podrían siquiera acercar a la amplia infinidad que tenemos en Nuestro Mundo.
 
 ***Por tanto, sí, es un hecho: El cielo nocturno del UDE es prácticamente oscuro. Hay muchas estrellas y constelaciones, pero ni todas ellas juntas pueden iluminar y producir un cielo estrellado tan impresionante como el de Nuestro Propio Mundo.***
+
+## Deidades
+Dado que ya las mencionamos, aprovechemos y hablemos ahora sobre las Deidades del UDE.
+
+Actualmente, a fecha de la última actualización del [repositorio](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados), en Destinos Entrelazados hay un total de 14 Deidades:
+
+ 1. Planeta sin nombre 1.
+ 2. Planeta sin nombre 2.
+ 3. Planeta sin nombre 3.
+ 4. La Tierra: [aún sin apodo definido].
+ 5. Vulcano: El Lucero del Alba.
+ 6. El Sol: La Luz Eterna.
+ 7. La Luna: [aún sin apodo definido].
+ 8. El Universo.
+ 9. El Espacio-Tiempo.
+ 10. Deirah: La Diosa de los Dragones.
+ 11. Tsukikow: La Kitsune de 9 Colas.
+ 12. Shinigami: El Dios de la Muerte.
+ 13. Futome: La Diosa de la Mala Muerte.
+ 14. Odelschwanck: La Diosa del Conocimiento.
+
+Sin embargo, aún faltan varias deidades y grupos de deidades que necesitan ser creados y definidos para completar el UDE en lo que a dioses respecta. A pesar de ello, mientras tanto se podemos empezar a explicar todo lo referente a los Dioses de la anterior lista.
+
+## Deidades Primigenias
+Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
+
+Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral, por lo que se les conoce como "Deidades Primigenias"; las más antiguas de todo el Cosmos y las primeras deidades del mundo.
+
+De buenas a primeras, es posible que la idea de que algo como que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
+
+En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa del Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
+
+Sin embargo, inspirado (o directamente copiado) un poquito del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en las que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí el hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+
+De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
+
+Empecemos por la primera, ¿les parece?
+
+## El Sol: La Luz Eterna.
