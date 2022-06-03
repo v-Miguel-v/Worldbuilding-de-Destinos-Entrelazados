@@ -92,7 +92,7 @@ Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la l
 
 Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral, por lo que se les conoce como "Deidades Primigenias"; las más antiguas de todo el Cosmos y las primeras deidades del mundo.
 
-De buenas a primeras, es posible que la idea de que algo como que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
+De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
 
 En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa del Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
 
@@ -102,4 +102,4 @@ De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final term
 
 Empecemos por la primera, ¿les parece?
 
-## El Sol: La Luz Eterna.
+## El Sol: La Luz Eterna
