@@ -1,4 +1,5 @@
 
+
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -66,17 +67,27 @@ No obstante, es importante recalcar que, incluso tomando en cuenta las catasteri
 ***Por tanto, sí, es un hecho: El cielo nocturno del UDE es prácticamente oscuro. Hay muchas estrellas y constelaciones, pero ni todas ellas juntas pueden iluminar y producir un cielo estrellado tan impresionante como el de Nuestro Propio Mundo.***
 
 ## Deidades
-Dado que ya las mencionamos, aprovechemos y hablemos ahora sobre las Deidades del UDE.
+Dado que tuvimos que mencionarlas para explicar algunos puntos en el apartado anterior, *¿por qué no aprovechamos y empezamos a hablar directamente de ellas?* Hablemos ahora sobre las Deidades del UDE.
+
+Las Deidades son... Algo complicadas de definir.
+
+A grandes rasgos, **una deidad es una entidad cuyas características superan con creces y van mucho más allá de la mera comprensión y alcance de cualquier mortal**. En algunos casos, siendo incluso personificaciones mismas de algún aspecto del mundo como podrían ser *El Día*, *La Noche*, *Los Mares* o *Los Bosques*, por mencionar solo algunos.
+
+Son seres de tan inmenso poder y capaces de tales hazañas, que la mayoría de los mortales no puede evitar venerarlos. Haciendo que, incluso la Deidad más humilde, tenga varios fieles y cultos bajo su nombre.
+
+Estas religiones que se forman alrededor de la adoración de las deidades, les confieren unas capacidades especiales y únicas que emergen de la misma fe de sus seguidores: Les dota de la capacidad de conectar directamente con sus fieles, pudiendo escuchar sus oraciones y presenciar sus rituales, para posteriormente decidir si atender o no a sus peticiones.
+
+<!-- Recordatorio: Expandir la explicación de "cómo los mortales pueden comunicarse con las deidades" más adelante -->
 
 Actualmente, a fecha de la última actualización del [repositorio](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados), en Destinos Entrelazados hay un total de 14 Deidades:
 
  1. Planeta sin nombre 1.
  2. Planeta sin nombre 2.
  3. Planeta sin nombre 3.
- 4. La Tierra: [aún sin apodo definido].
+ 4. La Tierra: Aún sin apodo definido.
  5. Vulcano: El Lucero del Alba.
  6. El Sol: La Luz Eterna.
- 7. La Luna: [aún sin apodo definido].
+ 7. La Luna: Aún sin apodo definido.
  8. El Universo.
  9. El Espacio-Tiempo.
  10. Deirah: La Diosa de los Dragones.
@@ -85,21 +96,67 @@ Actualmente, a fecha de la última actualización del [repositorio](https://gith
  13. Futome: La Diosa de la Mala Muerte.
  14. Odelschwanck: La Diosa del Conocimiento.
 
-Sin embargo, aún faltan varias deidades y grupos de deidades que necesitan ser creados y definidos para completar el UDE en lo que a dioses respecta. A pesar de ello, mientras tanto se podemos empezar a explicar todo lo referente a los Dioses de la anterior lista.
+Además de las anteriores, aún faltan varias deidades y grupos de deidades que necesitan ser creados y definidos para completar el UDE en lo que a dioses respecta... Por lo que su verdadero total puede terminar superando sin problemas la treintena.
 
-## Deidades Primigenias
+### Rangos Divinos
+A pesar de que existen todas esas deidades en el UDE, es importante tomar en cuenta que no todas son igual de poderosas y fuertes, y no todas poseen las mismas cualidades.
+
+Dependiendo de las capacidades máximas de su poder cósmico, las deidades se posicionan en diferentes rangos. Siendo generalmente las de mayor poder, las que se encuentran en las posiciones más altas de esta escala.
+
+- Deidades Trascendentes.
+- Deidades Primigenias.
+- Deidades Mayores.
+- Deidades Menores.
+
+**Deidades Trascendentes:**
+(aún sin definir)
+
+**Deidades Primigenias:**
+(aún sin definir)
+
+**Deidades Mayores:**
+(aún sin definir)
+
+**Deidades Menores:**
+(aún sin definir)
+
+### Tipos de Deidades
+Además de los anteriores rangos que clasifican a las Deidades dependiendo de qué tan poderosas son, hay una segunda e igualmente importante clasificación que directamente toma en cuenta la naturaleza, el origen y/o el estado actual de la deidad para poder catalogarlas.
+
+- Deidades.
+- Cuasideidades.
+- Semidioses.
+- Vestigios.
+
+**Cuasideidades:**
+(aún sin definir)
+
+**Semidioses:**
+(aún sin definir)
+
+**Vestigios:**
+(aún sin definir)
+
+## Deidades Primigenias (corregir)
 Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
 
-Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral, por lo que se les conoce como "Deidades Primigenias"; las más antiguas de todo el Cosmos y las primeras deidades del mundo.
+Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral conocida como como "Deidades Primigenias"; las más antiguas de todo el cosmos y las primeras deidades del mundo.
 
 De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
 
 En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa de la Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
 
-Sin embargo, inspirado (o directamente copiado) un poquito del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en las que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+Sin embargo, inspirado (o directamente copiado) del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en los que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
 
 De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
 
 Empecemos por la primera, ¿les parece?
 
-## El Sol: La Luz Eterna
+## El Sol: La Luz Eterna (corregir)
+*Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
+
+En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y constante en el universo, pero en algún momento... Su reinado llegó a su fin. Todas entraron en un estado de letargo y descanso en el que su energía bajó al mínimo y todas sus capacidades y habilidades quedaron casi completamente mermadas, haciendo que a pesar de su imponente renombre como Deidades, ahora no pudieran diferenciarse demasiado de unos meros objetos astronómicos orbitando.
+
+Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades que muchos de estos mortales veneran.
+
+Pero antes de empezar a hablar propiamente de La Luz Eterna, hay que explicar un aspecto muy importante de las Deidades: Su Escala; La Escala de Rangos Divinos.
