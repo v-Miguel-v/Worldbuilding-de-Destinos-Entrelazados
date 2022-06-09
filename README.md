@@ -1,5 +1,3 @@
-
-
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -108,11 +106,33 @@ Dependiendo de las capacidades máximas de su poder cósmico, las deidades se po
 - Deidades Mayores.
 - Deidades Menores.
 
-**Deidades Trascendentes:**
-(aún sin definir)
+**Deidades Trascendentes (corregir):**
+Las deidades trascendentales (a veces también llamadas _verdaderas deidades_) van mucho más allá de la mera comprensión mortal.
 
-**Deidades Primigenias:**
-(aún sin definir)
+Son divinidades que se encuentran en una escala tan superior a cualquier otra existente que directamente se vuelven la representación misma de aquel aspecto del universo al que hacen referencia.
+
+La Naturaleza… La Oscuridad… El Espacio… El Tiempo…
+
+Todos estos son ejemplos de Deidades Trascendentales: Divinidades que han alcanzado un estadio tan elevado que han dejado de ser entidades individuales para volverse Fuerzas Elementales de la Existencia.
+
+Este tipo de deidades, al tratarse de las mismas fuerzas que rigen el universo, son prácticamente omnipresentes: Estando en todos sitios y a la vez en ninguno debido a su falta de cuerpo físico. Sin embargo, aun con lo anterior, este tipo de divinidades no suelen ser adoradas, pues por sus mismas facultades trascendentales, ya no son seres que puedan escuchar y atender a las oraciones y rituales de sus seguidores.
+
+No obstante, es posible que en muy raras ocasiones estas deidades se manifiesten en forma de avatar como si fueran una deidad no trascendental.
+
+**Deidades Primigenias (corregir):**
+Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
+
+Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral conocida como como "Deidades Primigenias"; las más antiguas de todo el cosmos y las primeras deidades del mundo.
+
+De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
+
+En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa de la Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
+
+Sin embargo, inspirado (o directamente copiado) del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en los que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+
+De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
+
+Empecemos por la primera, ¿les parece?
 
 **Deidades Mayores:**
 (aún sin definir)
@@ -128,29 +148,33 @@ Además de los anteriores rangos que clasifican a las Deidades dependiendo de qu
 - Semidioses.
 - Vestigios.
 
-**Cuasideidades:**
-(aún sin definir)
+**Cuasideidades (corregir):**
+Las cuasideidades tienen origen divino, pero no atienden a las oraciones de sus fieles, no otorgan conjuros a los clérigos ni controlan aspectos de la vida de los mortales. Son seres inmensamente poderosos y, en teoría, podrían alcanzar el estatus de deidad si acumularan un número suficiente de adoradores. Estas cuasideidades pueden surgir de la unión entre dos deidades, ser fabricados en una forja divina, nacer de la sangre derramada de un dios o aparecer por cualquier otro acto de voluntad o sustancia divinas.
 
 **Semidioses:**
-(aún sin definir)
+Los Semidioses son el resultado de la unión entre una Deidad y un Mortal.
 
-**Vestigios:**
-(aún sin definir)
+Este origen y nacimiento común dota a los Semidioses de varias características divinas a pesar de que en cierta forma siguen siendo mortales, lo que ocasiona que destaquen y sobresalgan por encima de los demás miembros de su raza con diferencia.
 
-## Deidades Primigenias (corregir)
-Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
+No obstante, precisamente debido al hecho de que no son completamente deidades, la mayoría de los Semidioses suelen ser más débiles que el resto de las Deidades normales.
 
-Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral conocida como como "Deidades Primigenias"; las más antiguas de todo el cosmos y las primeras deidades del mundo.
+En la mayoría de los casos, cuando se habla de Semidioses se hace referencia al descendiente directo entre una Deidad y un Mortal, sin embargo este no es el único caso en el que puede nacer un Semidiós. Algunos otros casos en los que igualmente pueden nacer u originarse semidioses son:
 
-De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
+- *Cuando un semidiós sigue teniendo descendencia.*
+Incluso si es con otro mortal, la descendencia de los semidioses, también se consideran semidioses sin importar qué tantas generaciones pasen.
 
-En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa de la Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
+- *Como resultado de la unión física y/o espiritual entre una Deidad y un Mortal.*
+La unión literal de un mortal con una Deidad, podría llegar a producir un individuo con las características de ambos, formando un Semidiós.
 
-Sin embargo, inspirado (o directamente copiado) del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en los que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+- *Cuando un mortal recibe el poder de una Deidad.*
+Es probable que si un mortal llegase a recibir o absorber el poder de una Deidad, dicho mortal se termine convirtiendo en un Semidiós.
 
-De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
+*En síntesis: Se considera Semidiós a cualquier individuo nacido u originado como resultado entre la unión de una deidad y un mortal.*
 
-Empecemos por la primera, ¿les parece?
+**Vestigios (corregir):**
+Los vestigios son las deidades que han perdido a prácticamente todos sus fieles. Los mortales las consideran extintas. Ciertos rituales esotéricos permiten contactar con estas entidades y recurrir a su poder latente.
+
+Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
 
 ## El Sol: La Luz Eterna (corregir)
 *Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
