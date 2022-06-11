@@ -108,7 +108,7 @@ Dependiendo de las capacidades máximas de su poder cósmico, las deidades se po
 - Deidades Mayores.
 - Deidades Menores.
 
-**Deidades Trascendentales (corregir):**
+**Deidades Trascendentales:**
 Las Deidades Trascendentales son las deidades que reinan por encima de todos los demás rangos divinos y por encima de todas las demás deidades, encontrándose en una escala tan superior a cualquier otra existente y siendo capaces de tales hazañas con su inimaginable poder... Que directamente ***no hay ninguna otra cosa en el universo que se les compare ni que esté por encima de ellas***... Haciendo que todas las demás criaturas y entidades del cosmos *—incluyendo a las otras deidades—* no sean más que meros mortales a sus ojos; razón por la cual en algunos casos también se les ha llegado a llamar simplemente como _Verdaderas Deidades_.
 
 Sin embargo, a pesar de todo lo anterior... Prácticamente nadie conoce de su existencia (ni siquiera las demás deidades). Y la razón de ello es básicamente porque no interactúan prácticamente de ninguna forma apreciable con el mundo.
