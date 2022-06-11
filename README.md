@@ -1,3 +1,5 @@
+
+
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -101,23 +103,19 @@ A pesar de que existen todas esas deidades en el UDE, es importante tomar en cue
 
 Dependiendo de las capacidades máximas de su poder cósmico, las deidades se posicionan en diferentes rangos. Siendo generalmente las de mayor poder, las que se encuentran en las posiciones más altas de esta escala.
 
-- Deidades Trascendentes.
+- Deidades Trascendentales.
 - Deidades Primigenias.
 - Deidades Mayores.
 - Deidades Menores.
 
-**Deidades Trascendentes (corregir):**
-Las deidades trascendentales (a veces también llamadas _verdaderas deidades_) van mucho más allá de la mera comprensión mortal.
+**Deidades Trascendentales (corregir):**
+Las Deidades Trascendentales son las deidades que reinan por encima de todos los demás rangos divinos y por encima de todas las demás deidades, encontrándose en una escala tan superior a cualquier otra existente y siendo capaces de tales hazañas con su inimaginable poder... Que directamente ***no hay ninguna otra cosa en el universo que se les compare ni que esté por encima de ellas***... Haciendo que todas las demás criaturas y entidades del cosmos *—incluyendo a las otras deidades—* no sean más que meros mortales a sus ojos; razón por la cual en algunos casos también se les ha llegado a llamar simplemente como _Verdaderas Deidades_.
 
-Son divinidades que se encuentran en una escala tan superior a cualquier otra existente que directamente se vuelven la representación misma de aquel aspecto del universo al que hacen referencia.
+Sin embargo, a pesar de todo lo anterior... Prácticamente nadie conoce de su existencia (ni siquiera las demás deidades). Y la razón de ello es básicamente porque no interactúan prácticamente de ninguna forma apreciable con el mundo.
 
-La Naturaleza… La Oscuridad… El Espacio… El Tiempo…
+A excepción de muy contadas y especiales ocasiones, este tipo de deidades no suelen manifestarse de ninguna forma ni tampoco suelen realizar ningún acto u acción que reivindique su mera existencia. E incluso cuando son portadoras de tal increíble poder con el que podrían hacer cualquier cosa imaginable... No hacen nada.
 
-Todos estos son ejemplos de Deidades Trascendentales: Divinidades que han alcanzado un estadio tan elevado que han dejado de ser entidades individuales para volverse Fuerzas Elementales de la Existencia.
-
-Este tipo de deidades, al tratarse de las mismas fuerzas que rigen el universo, son prácticamente omnipresentes: Estando en todos sitios y a la vez en ninguno debido a su falta de cuerpo físico. Sin embargo, aun con lo anterior, este tipo de divinidades no suelen ser adoradas, pues por sus mismas facultades trascendentales, ya no son seres que puedan escuchar y atender a las oraciones y rituales de sus seguidores.
-
-No obstante, es posible que en muy raras ocasiones estas deidades se manifiesten en forma de avatar como si fueran una deidad no trascendental.
+Es por ello que, aun entre las mismas deidades, nadie sabe que dichas entidades siquiera existen, al punto de que se considera que el rango divino más alto y el que se posiciona por encima de todos los demás es el de las Deidades Primigenias. Al fin y al cabo... *"¿Cómo rayos podría existir si quiera un ser de tan ridículo poder? Es imposible."*
 
 **Deidades Primigenias (corregir):**
 Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
