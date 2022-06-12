@@ -1,5 +1,6 @@
 
 
+
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -79,7 +80,7 @@ Estas religiones que se forman alrededor de la adoración de las deidades, les c
 
 <!-- Recordatorio: Expandir la explicación de "cómo los mortales pueden comunicarse con las deidades" más adelante -->
 
-Actualmente, a fecha de la última actualización del [repositorio](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados), en Destinos Entrelazados hay un total de 14 Deidades:
+Actualmente, a fecha de la última actualización del repositorio, en Destinos Entrelazados hay un total de 14 Deidades:
 
  1. Planeta sin nombre 1.
  2. Planeta sin nombre 2.
@@ -103,21 +104,23 @@ A pesar de que existen todas esas deidades en el UDE, es importante tomar en cue
 
 Dependiendo de las capacidades máximas de su poder cósmico, las deidades se posicionan en diferentes rangos. Siendo generalmente las de mayor poder, las que se encuentran en las posiciones más altas de esta escala.
 
-- Deidades Trascendentales.
-- Deidades Primigenias.
-- Deidades Mayores.
-- Deidades Menores.
+- [Deidades Trascendentes](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#deidades-trascendentes).
+- [Deidades Primigenias](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#deidades-primigenias).
+- [Deidades Mayores](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#deidades-mayores).
+- [Deidades Menores](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#deidades-menores).
 
-**Deidades Trascendentales:**
-Las Deidades Trascendentales son las deidades que reinan por encima de todos los demás rangos divinos y por encima de todas las demás deidades, encontrándose en una escala tan superior a cualquier otra existente y siendo capaces de tales hazañas con su inimaginable poder... Que directamente ***no hay ninguna otra cosa en el universo que se les compare ni que esté por encima de ellas***... Haciendo que todas las demás criaturas y entidades del cosmos *—incluyendo a las otras deidades—* no sean más que meros mortales a sus ojos; razón por la cual en algunos casos también se les ha llegado a llamar simplemente como _Verdaderas Deidades_.
+#### **Deidades Trascendentes:**
+Las Deidades Trascendentes son las deidades que reinan por encima de todos los demás rangos divinos y por encima de todas las demás deidades, encontrándose en una escala tan superior a cualquier otra existente y siendo capaces de tales hazañas con su inimaginable poder... Que directamente ***no hay ninguna otra cosa en el universo que se les compare ni que esté por encima de ellas***... Haciendo que todas las demás criaturas y entidades del cosmos *—incluyendo a las otras deidades—* no sean más que meros mortales a sus ojos; razón por la cual en algunos casos también se les ha llegado a llamar simplemente como _Verdaderas Deidades_.
 
 Sin embargo, a pesar de todo lo anterior... Prácticamente nadie conoce de su existencia (ni siquiera las demás deidades). Y la razón de ello es básicamente porque no interactúan prácticamente de ninguna forma apreciable con el mundo.
 
 A excepción de muy contadas y especiales ocasiones, este tipo de deidades no suelen manifestarse de ninguna forma ni tampoco suelen realizar ningún acto u acción que reivindique su mera existencia. E incluso cuando son portadoras de tal increíble poder con el que podrían hacer cualquier cosa imaginable... No hacen nada.
 
-Es por ello que, aun entre las mismas deidades, nadie sabe que dichas entidades siquiera existen, al punto de que se considera que el rango divino más alto y el que se posiciona por encima de todos los demás es el de las Deidades Primigenias. Al fin y al cabo... *"¿Cómo rayos podría existir si quiera un ser de tan ridículo poder? Es imposible."*
+Es por ello que, aun entre las mismas deidades, nadie sabe que dichas entidades siquiera existen, al punto de que se considera que el rango divino más alto y el que se posiciona por encima de todos los demás es el de las Deidades Primigenias. Al fin y al cabo... *"¿Cómo rayos podría existir si quiera un ser de un poder tan ridículo como para incluso superar a las Deidades Primigenias? Es imposible."*
 
-**Deidades Primigenias (corregir):**
+#### **Deidades Primigenias:**
+(corregir)
+
 Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
 
 Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral conocida como como "Deidades Primigenias"; las más antiguas de todo el cosmos y las primeras deidades del mundo.
@@ -132,29 +135,39 @@ De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final term
 
 Empecemos por la primera, ¿les parece?
 
-**Deidades Mayores:**
+#### **Deidades Mayores:**
 (aún sin definir)
 
-**Deidades Menores:**
+#### **Deidades Menores:**
 (aún sin definir)
 
 ### Tipos de Deidades
 Además de los anteriores rangos que clasifican a las Deidades dependiendo de qué tan poderosas son, hay una segunda e igualmente importante clasificación que directamente toma en cuenta la naturaleza, el origen y/o el estado actual de la deidad para poder catalogarlas.
 
-- Deidades.
-- Cuasideidades.
-- Semidioses.
-- Vestigios.
+- [Deidades](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#deidades).
+- [Cuasideidades](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#cuasideidades).
+- [Semidioses](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#semidioses).
+- [Vestigios](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#vestigios).
 
-**Cuasideidades (corregir):**
-Las cuasideidades tienen origen divino, pero no atienden a las oraciones de sus fieles, no otorgan conjuros a los clérigos ni controlan aspectos de la vida de los mortales. Son seres inmensamente poderosos y, en teoría, podrían alcanzar el estatus de deidad si acumularan un número suficiente de adoradores. Estas cuasideidades pueden surgir de la unión entre dos deidades, ser fabricados en una forja divina, nacer de la sangre derramada de un dios o aparecer por cualquier otro acto de voluntad o sustancia divinas.
+#### **Cuasideidades:**
+Al igual que las Deidades, las Cuasideidades tienen un origen divino y son entidades que poseen un increíble poder, sin embargo, a diferencia de las primeras... ***Las Cuasideidades no tienen casi seguidores ni mucho menos cultos o religiones a su nombre***.
 
-**Semidioses:**
+Esta sutil diferencia hace que las Cuasideidades no posean la cualidad única que prácticamente caracteriza como tal a las Deidades: *El ser capaz de conectarse con sus seguidores*.
+
+De ahí que su nombre sea "Cuasideidades"; literalmente *"Casi Deidades"*, para hacer alusión al hecho de que, al no disponer de los seguidores suficientes, aún no son Deidades Completas.
+
+Por lo que sí, en síntesis: Una Cuasideidad *literalmente* es solo una Deidad que no tiene casi seguidores o directamente ningún seguidor.
+
+No obstante, es muy importante aclarar que a pesar de todo lo anterior, las Cuasideidades no son muy comunes, e incluso las pocas que existan tampoco duran demasiado como Cuasideidades ya que gracias a su increíble poder la gran mayoría eventualmente terminan volviéndose del todo Deidades tras obtener unos cuantos seguidores y fieles.
+
+Además, por la misma naturaleza de su definición... Así como una Cuasideidad puede llegar a volverse una Deidad si obtiene suficientes seguidores... *Una Deidad también puede llegar a volverse una Cuasideidad si pierde a casi todos sus creyentes.*
+
+#### **Semidioses:**
 Los Semidioses son el resultado de la unión entre una Deidad y un Mortal.
 
 Este origen y nacimiento común dota a los Semidioses de varias características divinas a pesar de que en cierta forma siguen siendo mortales, lo que ocasiona que destaquen y sobresalgan por encima de los demás miembros de su raza con diferencia.
 
-No obstante, precisamente debido al hecho de que no son completamente deidades, la mayoría de los Semidioses suelen ser más débiles que el resto de las Deidades normales.
+No obstante, precisamente debido al hecho de que no son completamente dioses, los Semidioses suelen ser los más débiles entre todos los tipos de deidades y ubicarse en el eslabón más bajo de todos los rangos divinos.
 
 En la mayoría de los casos, cuando se habla de Semidioses se hace referencia al descendiente directo entre una Deidad y un Mortal, sin embargo este no es el único caso en el que puede nacer un Semidiós. Algunos otros casos en los que igualmente pueden nacer u originarse semidioses son:
 
@@ -169,7 +182,9 @@ Es probable que si un mortal llegase a recibir o absorber el poder de una Deidad
 
 *En síntesis: Se considera Semidiós a cualquier individuo nacido u originado como resultado entre la unión de una deidad y un mortal.*
 
-**Vestigios (corregir):**
+#### **Vestigios:**
+(corregir)
+
 Los vestigios son las deidades que han perdido a prácticamente todos sus fieles. Los mortales las consideran extintas. Ciertos rituales esotéricos permiten contactar con estas entidades y recurrir a su poder latente.
 
 Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
