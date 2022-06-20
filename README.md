@@ -114,7 +114,7 @@ Las Deidades Trascendentes son las deidades que reinan por encima de todos los d
 
 Sin embargo, a pesar de todo lo anterior... Prácticamente nadie conoce de su existencia (ni siquiera las demás deidades). Y la razón de ello es básicamente porque no interactúan prácticamente de ninguna forma apreciable con el mundo.
 
-A excepción de muy contadas y especiales ocasiones, este tipo de deidades no suelen manifestarse de ninguna forma ni tampoco suelen realizar ningún acto u acción que reivindique su mera existencia. E incluso cuando son portadoras de tal increíble poder con el que podrían hacer cualquier cosa imaginable... No hacen nada.
+A excepción de muy contadas y especiales ocasiones, este tipo de deidades no suelen manifestarse de ninguna forma ni tampoco suelen realizar ningún acto que reivindique su mera existencia. E incluso cuando son portadoras de tal increíble poder con el que podrían hacer cualquier cosa imaginable... No hacen nada.
 
 Es por ello que, aun entre las mismas deidades, nadie sabe que dichas entidades siquiera existen, al punto de que se considera que el rango divino más alto y el que se posiciona por encima de todos los demás es el de las Deidades Primigenias. Al fin y al cabo... *"¿Cómo rayos podría existir si quiera un ser de un poder tan ridículo como para incluso superar a las Deidades Primigenias? Es imposible."*
 
@@ -149,6 +149,8 @@ Además de los anteriores rangos que clasifican a las Deidades dependiendo de qu
 - [Semidioses](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#semidioses).
 - [Vestigios](https://github.com/v-Miguel-v/Worldbuilding-de-Destinos-Entrelazados/tree/messy-info#vestigios).
 
+*Dado que ya se explicó el apartado de Deidades con anterioridad, simplemente continuaremos con la explicación de los demás tipos; empezando con las Cuasideidades.*
+
 #### **Cuasideidades:**
 Al igual que las Deidades, las Cuasideidades tienen un origen divino y son entidades que poseen un increíble poder, sin embargo, a diferencia de las primeras... ***Las Cuasideidades no tienen casi seguidores ni mucho menos cultos o religiones a su nombre***.
 
@@ -172,24 +174,60 @@ No obstante, precisamente debido al hecho de que no son completamente dioses, lo
 En la mayoría de los casos, cuando se habla de Semidioses se hace referencia al descendiente directo entre una Deidad y un Mortal, sin embargo este no es el único caso en el que puede nacer un Semidiós. Algunos otros casos en los que igualmente pueden nacer u originarse semidioses son:
 
 - *Cuando un semidiós sigue teniendo descendencia.*
-Incluso si es con otro mortal, la descendencia de los semidioses, también se consideran semidioses sin importar qué tantas generaciones pasen.
+Incluso si es con otro mortal, la descendencia de los semidioses también se consideran semidioses sin importar qué tantas generaciones pasen.
 
 - *Como resultado de la unión física y/o espiritual entre una Deidad y un Mortal.*
 La unión literal de un mortal con una Deidad, podría llegar a producir un individuo con las características de ambos, formando un Semidiós.
 
 - *Cuando un mortal recibe el poder de una Deidad.*
-Es probable que si un mortal llegase a recibir o absorber el poder de una Deidad, dicho mortal se termine convirtiendo en un Semidiós.
+Es probable que si un mortal llegase a recibir o absorber el poder directo de una Deidad, dicho mortal se termine convirtiendo en un Semidiós.
 
 *En síntesis: Se considera Semidiós a cualquier individuo nacido u originado como resultado entre la unión de una deidad y un mortal.*
 
 #### **Vestigios:**
-(corregir)
+Puede que esto suene extraño e incluso contradictorio... Pero a veces las Deidades —incluso siendo seres de tan increíble poder— pueden llegar a morir.
 
-Los vestigios son las deidades que han perdido a prácticamente todos sus fieles. Los mortales las consideran extintas. Ciertos rituales esotéricos permiten contactar con estas entidades y recurrir a su poder latente.
+Es muy raro que esto ocurra. Y las pocas veces que llega a ocurrir, generalmente se debe a un enfrentamiento entre Deidades el cual termina resultando en que alguna de ellas acabe muerta. No obstante, aun después de haber muerto, cabe la posibilidad de que quede un pequeña parte de ellas: Un Vestigio.
 
-Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
+Ciertos rituales esotéricos permiten contactar con estas "entidades vestigio" y recurrir a su poder latente. Pero antes de llegar a ello, hablemos un poco más a profundidad acerca de lo que realmente son estos Vestigios.
+
+Primero que nada, es necesario aclarar que la existencia de los Vestigios es incluso aun menos común que la de las Cuasideidades. Los Vestigios son muy raros; no solo por el hecho de que es necesario que una deidad muera (lo cual ya es bastante extraño que ocurra) para que estos se originen, sino que incluso tras nacer, luego de un tiempo la gran mayoría de ellos terminan desapareciendo sin más al perder cada vez más y más poder hasta que no queda nada y meramente se vuelven magia residual indistinguible de la que impregna todo el cosmos; a lo que se le suma el hecho de que es complicado identificar a los que no desaparecen debido a la gran variedad de formas distintas que pueden tomar.
+
+Ya aclarado ello, ahora sí, ¿qué rayos es un Vestigio?
+
+***Cuando una Deidad muere*** *—dependiendo de la naturaleza de la deidad y de cómo haya sido su muerte—* ***es probable que incluso tras morir*** *—debido a las mismas características divinas y casi todopoderosas de las Deidades—* ***no desaparezcan del todo y quede un pequeño remanente de su esencia: Dicho remanente es lo que se conoce como Vestigio.***
+
+Estos Vestigios pueden variar muchísimo de unos a otros, pero lo que tienen todos en común es el hecho de que *representan una pequeña fracción de la deidad original que murió*.
+
+Y esa es otra cosa que también es muy importante recalcar: **Un Vestigio no es la misma deidad que murió**.
+
+Cuando una Deidad muere, se muere de verdad, e incluso si tiempo después mediante un ritual prohibido intentas "revivirla" a través de su Vestigio (lo cual es bastante difícil de por sí), la deidad que "reviviría" nunca sería igual a la deidad original que murió. A lo mucho sería parecida; pero nunca la misma, y puede que incluso ni siquiera tenga los mismos recuerdos de la Deidad Original: Por lo que como tal sería otra deidad diferente nacida del vestigio de la deidad original; pero nunca la misma deidad original que murió.
+
+Los Vestigios son solo eso: Son un pequeño remanente de una Deidad que murió. Un remanente que posee parte de su esencia, de su naturaleza, de su poder innato, e incluso a veces también parte de su misma consciencia, pero no son la Deidad Original, la cual lastimosamente está muerta.
+
+Las formas que puede tomar un Vestigio son muy variadas y diferentes ya que dependen de todos los factores que hacen única a la deidad original, yendo desde la naturaleza misma de su poder, los dominios de la existencia que controla, el aspecto del mundo que representa, el rango divino en el que se encuentra e incluso rasgos tan sutiles como sus ideales y la forma en la que interactuaba con el mundo. Todos esos factores intervienen de formas desconocidas en mayor y menor medida para dar forma al Vestigio.
+
+Algunos de esos casos podrían ser:
+- Una llama perpétua, inapagable e inextinguible.
+Este podría ser el Vestigio de una Deidad de Fuego, por ejemplo. Quizás, justo después de que esa Deidad de Fuego murió, en algún lugar del mundo apareció misteriosamente esa peculiar llama que aparentemente nada la puede apaciguar. O quizás directamente la llama nació en el lugar donde murió esa Deidad de Fuego.
+
+- Un libro prohibido, de magia y conocimientos de lo oculto.
+Este podría ser el Vestigio de una Deidad de la Necromancia, por ejemplo. Quizás, luego de ser asesinada, todo el poder mágico y la escencia remanente de esta Deidad fue a parar al único objeto mágico que llegó a crear en vida: Un Libro Prohibido con magia necromántica nunca antes vista. Este Vestigio, incluso a pesar de ser un objeto, podría incluso tener un pequeño rastro de consciencia y maldecir, poseer o hipnotizar ligeramente al que lo porte, tal vez incluso con la finalidad de hacer que dicho portador cumpla la tarea de hacer un ritual para intentar revivir a la Deidad de la Necromancia.
+
+- Una marca de nacimiento, la cual tienen 8 niños.
+Este podría ser el Vestigio de una Deidad de la Vida, por ejemplo. Quizás, luego de ser morir, muchos años después, alrededor del mundo en diferentes partes e incluso en diferentes razas, un total de 8 niños nacen con una extraña marca en el cuerpo la cual les dota de un increíble y misterioso poder. Y si se juntan los 8, pueden llegar a invocar parte del asombroso poder de esa Antigua Deidad de la Vida.
+
+Todos estos son posibles casos de Vestigios, y pueden llegar a ser tan variados como se aprecia en los ejemplos: Algunos aparecen directamente en el mismo lugar donde falleció la deidad, otros; en lugares completamente diferentes. Algunos tienen una pequeña parte de la consciencia de la Deidad Original, mientras que otros pueden no tener consciencia en absoluto o tener una muy distinta. Algunos incluso pueden ser objetos físicos mientras que otros pueden ser cosas tan abstractas como una "marca de nacimiento".
+
+Todas estas posibles formas que pueden tomar los vestigios, como ya se mencionó antes, en muchos casos con el pasar cientos o miles de años eventualmente van perdiendo poder *(en especial aquellos que pueden quedarse perdidos y sin ser encontrados por nadie como los vestigios que toman la forma de objetos físicos)*, teniendo cada vez menos hasta que eventualmente su poder latente desaparece del todo.
+
+Entonces... ¿Siempre que se muere una Deidad nace un Vestigio? En realidad no. Hay casos en los que la destrucción de la Deidad es tal, que ni siquiera queda un remanente de su existencia tras ser eliminadas. Básicamente, cuando la causa de la muerte de una Deidad es algo con un poder muy superior al de la misma Deidad (por ejemplo, algo con un rango divino mayor), no queda ningún tipo de rastro tras haber sido asesinadas, evitando así que se forme un Vestigio de ellas. En estos casos suele ser necesaria la eliminación completa de la deidad de modo que no quede nada de su cuerpo físico.
+
+El último caso donde no nacen Vestigios es cuando la Deidad es un Semidiós. En estos casos, a no ser que el Semidiós sea muy poderoso, tampoco nacerá un Vestigio de ellos por el hecho de que los Semidioses no son completamente divinidades.
 
 ## El Sol: La Luz Eterna (corregir)
+Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
+
 *Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
 
 En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y constante en el universo, pero en algún momento... Su reinado llegó a su fin. Todas entraron en un estado de letargo y descanso en el que su energía bajó al mínimo y todas sus capacidades y habilidades quedaron casi completamente mermadas, haciendo que a pesar de su imponente renombre como Deidades, ahora no pudieran diferenciarse demasiado de unos meros objetos astronómicos orbitando.
@@ -197,3 +235,4 @@ En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y co
 Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades que muchos de estos mortales veneran.
 
 Pero antes de empezar a hablar propiamente de La Luz Eterna, hay que explicar un aspecto muy importante de las Deidades: Su Escala; La Escala de Rangos Divinos.
+
