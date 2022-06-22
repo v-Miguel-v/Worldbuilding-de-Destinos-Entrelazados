@@ -119,21 +119,22 @@ A excepción de muy contadas y especiales ocasiones, este tipo de deidades no su
 Es por ello que, aun entre las mismas deidades, nadie sabe que dichas entidades siquiera existen, al punto de que se considera que el rango divino más alto y el que se posiciona por encima de todos los demás es el de las Deidades Primigenias. Al fin y al cabo... *"¿Cómo rayos podría existir si quiera un ser de un poder tan ridículo como para incluso superar a las Deidades Primigenias? Es imposible."*
 
 #### **Deidades Primigenias:**
-(corregir)
+Como ya hemos mencionado, las Deidades pueden incluso llegar a ser personificaciones mismas de algún aspecto del mundo, como *El Día*, *La Noche*, *Los Mares* o *Los Bosques*, por mencionar solo algunos.
 
-Como quizás se haya podido notar, el Sol, la Luna, y la Tierra aparecen en la lista de deidades, y la razón de ello es porque, *efectivamente*, **son deidades**.
+**Las Deidades Primigenias**, además de ser de las más poderosas y fuertes; estando solo por debajo de las Deidades Trascendentes, **son las personificaciones de las entidades más antiguas de todo el cosmos y apartir de las cuales nacieron la gran mayoría de los aspectos que hoy conforman al mundo tal y como lo conocemos: Los Astros Reyes.**
 
-Los Cuerpos Celestes y los Objetos Astronómicos principales del UDE: Los Planetas, Las Lunas y el Sol, son una clase de deidad muy especial y ancestral conocida como como "Deidades Primigenias"; las más antiguas de todo el cosmos y las primeras deidades del mundo.
+El Sol, La Luna, La Tierra...
+Todas ellas son Deidades Primigenias.
 
-De buenas a primeras, es posible que la idea de que *"un cuerpo celeste sea una deidad"* suene como una idea extraña, y en cierta forma... Lo es.
+De buenas a primeras, quizás el concepto sea algo extraño, pero entre todas las cosas que existen dentro del UDE, Los Astros Reyes *—Los Objetos Astronómicos o Cuerpos Celestes Principales—* son en gran parte los responsables de haberle dado forma al mundo y dotarle de los aspectos y fenómenos que lo conforman: Que existan cosas como *el día* o *la noche*, o como *los mares* o *las montañas*, e incluso la misma *vida*... Ninguno de estos aspectos serían posibles sin la existencia de las Deidades Primigenias.
 
-En un principio cuando estaba definiendo las primeras cosas del UDE, no pensé en hacer que "El Sol" —como objeto astronómico— fuera directamente una deidad. Al fin y al cabo en estos casos y en varias mitologías lo que sucede es que *"hay un Dios que representa dicho cuerpo celeste"*: Hay un *"Dios del Sol"*, o una *"Diosa de la Luna"*, o una *"Diosa de la Tierra"*. Pero no es muy frecuente encontrar mundos y mitologías en los que el objeto astronómico en sí mismo es la Deidad.
+Aclarado ello, **si de verdad entonces todos los Planetas, las Lunas y el Sol son deidades...** *¿Por qué lucen como si simplemente fueran meros objetos orbitando? ¿Por qué no parecen deidades de verdad?*
 
-Sin embargo, inspirado (o directamente copiado) del Universo de TypeMoon de las visual novel de Tsukihime y las de Fate, junto al hecho de que sí es habitual encontrar mundos y mitologías en los que se habla de *La Fuerza de la Naturaleza*, de *La Madre Naturaleza*, y en sí del hecho de que *"**el planeta tierra tiene voluntad y vida propia** (aunque no se le considere como deidad propiamente hablando)"*, pensé... ¿Y por qué los demás planetas no tendrían también voluntad y vida propia?
+En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y constante en el universo, pero en algún momento... Su reinado llegó a su fin. Todas entraron en un estado de letargo y descanso en el que su energía bajó al mínimo y todas sus capacidades y habilidades quedaron casi completamente mermadas, haciendo que a pesar de su imponente renombre como Deidades, ya no pudieran diferenciarse demasiado de unos meros objetos astronómicos orbitando.
 
-De ahí empecé a darle algunas vueltas, una cosa llevó a otra, y al final terminé definiendo a las Deidades Primigenias: **Las Deidades Más Antiguas del Cosmos; Las Primeras Deidades**.
+Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades a las que están acostumbrados a venerar.
 
-Empecemos por la primera, ¿les parece?
+<!-- Recordatorio: Agregar la explicación de "qué fue lo que ocasionó que el Reinado de las Deidades Primigenias llegara a su fin" y abundar más acerca del hecho de "cómo pueden despertar de su letargo" más adelante -->
 
 #### **Deidades Mayores:**
 (aún sin definir)
@@ -235,4 +236,3 @@ En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y co
 Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades que muchos de estos mortales veneran.
 
 Pero antes de empezar a hablar propiamente de La Luz Eterna, hay que explicar un aspecto muy importante de las Deidades: Su Escala; La Escala de Rangos Divinos.
-
