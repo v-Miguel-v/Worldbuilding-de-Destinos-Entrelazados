@@ -137,10 +137,20 @@ Este estado de letargo es algo que incluso continúa a día de hoy, y es la raz�
 <!-- Recordatorio: Agregar la explicación de "qué fue lo que ocasionó que el Reinado de las Deidades Primigenias llegara a su fin" y abundar más acerca del hecho de "cómo pueden despertar de su letargo" más adelante -->
 
 #### **Deidades Mayores:**
-(aún sin definir)
+Dado que la existencia de las Deidades Trascendentes y Primigenias es totalmente desconocida, *¿a qué se hace referencia cuando se usa la palabra **Deidad**?*
+
+Para el resto de los mortales, las únicas Deidades que existen son las Deidades Mayores y las Deidades Menores. Así que en general, cuando se usa la palabra Deidad es para hacer referencia a alguna de ellas.
+
+Partiendo de este hecho, las Deidades Mayores en realidad no serían más que las deidades típicas de cualquier panteón de dioses: Seres o entidades muy poderosas capaces de hazañas que van mucho más allá de lo que cualquier mortal podría realizar.
+
+Las Deidades que se han mencionado como ejemplo *—El Día, La Noche, Los Mares, Los Bosques, Las Montañas—* podrían ser perfectamente Deidades Mayores ya que, en sí, una Deidad Mayor es... Una Deidad Normal.
+
+Pero entonces... *¿Por qué se llaman Deidades Mayores?*
+
+En la mayoría de los contextos, solo se les llama "Deidades" sin más dado que son las típicas deidades normales. Sin mebargo, dado que hay ocasiones en las que una Deidad puede llegar a tener a otras Deidades bajo su mando, en estos contextos se les denomina "Deidades Mayores" o "Deidades Menores" para diferenciar unas de otras. Siendo obviamente las Mayores quienes tienen a las otras bajo su mando.
 
 #### **Deidades Menores:**
-(aún sin definir)
+Las Deidades Menores son Deidades que están bajo las órdenes de otras Deidades; a las cuales se les denomina Deidades Mayores. No obstante, a pesar de que tienen a otra Deidad por encima de ellas y a pesar de que por definición son las más débiles de todos los Rangos Divinos dado que se ubican en el último eslabón de la escala... Igualmente siguen siendo entidades con un increíble poder capaces de cosas inimaginables...
 
 ### Tipos de Deidades
 Además de los anteriores rangos que clasifican a las Deidades dependiendo de qué tan poderosas son, hay una segunda e igualmente importante clasificación que directamente toma en cuenta la naturaleza, el origen y/o el estado actual de la deidad para poder catalogarlas.
