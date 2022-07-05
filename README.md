@@ -236,13 +236,17 @@ Entonces... ¿Siempre que se muere una Deidad nace un Vestigio? En realidad no. 
 
 El último caso donde no nacen Vestigios es cuando la Deidad es un Semidiós. En estos casos, a no ser que el Semidiós sea muy poderoso, tampoco nacerá un Vestigio de ellos por el hecho de que los Semidioses no son completamente divinidades.
 
-## El Sol: La Luz Eterna (corregir)
+## El Sol: La Luz Eterna
 Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
 
 *Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
 
-En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y constante en el universo, pero en algún momento... Su reinado llegó a su fin. Todas entraron en un estado de letargo y descanso en el que su energía bajó al mínimo y todas sus capacidades y habilidades quedaron casi completamente mermadas, haciendo que a pesar de su imponente renombre como Deidades, ahora no pudieran diferenciarse demasiado de unos meros objetos astronómicos orbitando.
+Entre todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
 
-Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades que muchos de estos mortales veneran.
+Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina en la oscuiridad del espacio. Razón por la cual, incluso a día de hoy, se le sigue llamando también como "La Luz Eterna".
 
-Pero antes de empezar a hablar propiamente de La Luz Eterna, hay que explicar un aspecto muy importante de las Deidades: Su Escala; La Escala de Rangos Divinos.
+Puntitos a definir:
+·) Tamaño.
+·) Poder, Magia y esas cosas.
+·) Religiones.
+·) Vulcano.
