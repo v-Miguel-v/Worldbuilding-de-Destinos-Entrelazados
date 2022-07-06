@@ -241,12 +241,15 @@ Acabado de definir todo lo referente a las distintas formas en las que se pueden
 
 *Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
 
-Entre todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
+De todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
 
-Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina en la oscuiridad del espacio. Razón por la cual, incluso a día de hoy, se le sigue llamando también como "La Luz Eterna".
+Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en los contextos religiosos se le sigue conociendo tambien como "La Luz Eterna".
+
+Entrando ahora en términos más astronómicos, la Luz Eterna, a pesar de que tiene un tamaño similar al del Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, la Luz Eterna tiene un diámetro de 1 Mm (mientras que nuestro sol tiene un diámetro de 1,39 Mm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, la Luz Eterna es igualmente una estrella de color blanco y al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra, su color se ve ligeramente alterado.
 
 Puntitos a definir:
-·) Tamaño.
 ·) Poder, Magia y esas cosas.
 ·) Religiones.
 ·) Vulcano.
+
+<!-- La tierra del UDE mide 36 mil km (3 veces más que nuestra tierra) -->
