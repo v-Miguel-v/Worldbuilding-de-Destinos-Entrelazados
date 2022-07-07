@@ -82,13 +82,13 @@ Estas religiones que se forman alrededor de la adoración de las deidades, les c
 
 Actualmente, a fecha de la última actualización del repositorio, en Destinos Entrelazados hay un total de 14 Deidades:
 
- 1. Planeta sin nombre 1.
- 2. Planeta sin nombre 2.
- 3. Planeta sin nombre 3.
- 4. La Tierra: Aún sin apodo definido.
- 5. Vulcano: El Lucero del Alba.
- 6. El Sol: La Luz Eterna.
- 7. La Luna: Aún sin apodo definido.
+ 1. El Sol: La Luz Eterna.
+ 2. Vulcano: El Lucero del Alba.
+ 3. La Tierra: Aún sin apodo definido.
+ 4. La Luna: Aún sin apodo definido.
+ 5. Planeta sin nombre 1.
+ 6. Planeta sin nombre 2.
+ 7. Planeta sin nombre 3.
  8. El Universo.
  9. El Espacio-Tiempo.
  10. Deirah: La Diosa de los Dragones.
@@ -243,13 +243,16 @@ Acabado de definir todo lo referente a las distintas formas en las que se pueden
 
 De todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
 
-Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en los contextos religiosos se le sigue conociendo tambien como "La Luz Eterna".
+Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en casi todos los contextos religiosos se le sigue conociendo también como "La Luz Eterna".
 
-Entrando ahora en términos más astronómicos, la Luz Eterna, a pesar de que tiene un tamaño similar al del Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, la Luz Eterna tiene un diámetro de 1 Mm (mientras que nuestro sol tiene un diámetro de 1,39 Mm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, la Luz Eterna es igualmente una estrella de color blanco y al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra, su color se ve ligeramente alterado.
+Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al del Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente una estrella de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
 
-Puntitos a definir:
-·) Poder, Magia y esas cosas.
-·) Religiones.
-·) Vulcano.
+A pesar de encontrarse en un estado de letargo al igual que el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir. E igualmente, aunque no es normal que ocurra, La Luz Eterna de tanto en tanto incluso dota de poder a los mortales.
 
-<!-- La tierra del UDE mide 36 mil km (3 veces más que nuestra tierra) -->
+Además de lo anterior mencionado, hay otras cosas importantes sobre La Luz Eterna que considero que es necesario definirlas, sin embargo, justo ahora no se me ocurre cómo hacerlo ni qué escribir sobre ellas. Aunque al menos me gustaría nombrarlas:
+
+## Vulcano: El Lucero del Alba
+Vulcano, 
+
+## La Tierra: Aún sin apodo definido
+La tierra del UDE mide 36 Mm (mientras que nuestra tierra mide 12,7 Mm).
