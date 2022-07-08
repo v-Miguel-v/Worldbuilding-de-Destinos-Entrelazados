@@ -86,10 +86,10 @@ Actualmente, a fecha de la última actualización del repositorio, en Destinos E
  2. Vulcano: El Lucero del Alba.
  3. La Tierra: Aún sin apodo definido.
  4. La Luna: Aún sin apodo definido.
- 5. Planeta sin nombre 1.
+ 5. Oasis: Aún sin apodo definido.
  6. Planeta sin nombre 2.
  7. Planeta sin nombre 3.
- 8. El Universo.
+ 8. Todo en el Universo: La Voluntad del Cosmos.
  9. El Espacio-Tiempo.
  10. Deirah: La Diosa de los Dragones.
  11. Tsukikow: La Kitsune de 9 Colas.
@@ -245,14 +245,33 @@ De todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo 
 
 Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en casi todos los contextos religiosos se le sigue conociendo también como "La Luz Eterna".
 
-Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al del Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente una estrella de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
+A pesar de que se encuentra en un estado de letargo así como el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir.
 
-A pesar de encontrarse en un estado de letargo al igual que el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir. E igualmente, aunque no es normal que ocurra, La Luz Eterna de tanto en tanto incluso dota de poder a los mortales.
-
-Además de lo anterior mencionado, hay otras cosas importantes sobre La Luz Eterna que considero que es necesario definirlas, sin embargo, justo ahora no se me ocurre cómo hacerlo ni qué escribir sobre ellas. Aunque al menos me gustaría nombrarlas:
+Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
 
 ## Vulcano: El Lucero del Alba
 Vulcano, 
 
 ## La Tierra: Aún sin apodo definido
 La tierra del UDE mide 36 Mm (mientras que nuestra tierra mide 12,7 Mm).
+
+## Todo en el Universo: La Voluntad del Cosmos
+*¿Quién creó el Universo? ¿Cómo se originó todo?*
+
+En nuestro mundo, cuando llegan a la mente esas preguntas, en muchos casos se suele pensar en la deidad o deidades pertinentes de la religión a la que se siga, o también cosas como el "Big Bang" o la "Hiperinflación".
+
+En Destinos Entrelazados, la respuesta a esa pregunta está en la Deidad Trascendente que representa Todo en el Universo: La Voluntad del Cosmos.
+
+Hace mucho pero mucho tiempo, antes de la existencia de la realidad tal y como se conoce, solo había oscuridad. No habían estrellas, ni planetas... Ni siquiera energía. No había nada. Únicamente era un espacio vacío en el que incluso la misma concepción del tiempo carecía de significado. El Universo permaneció en este estado durante una eternidad, pero de pronto, de la aparente nada, todo se comprimió con fuerza: El Espacio-Tiempo en sí mismo se redujo de forma abrupta en un único punto, y tras ello, una cantidad inconmensurablemente infinita de energía emergió: Haciendo el espacio volviera a expandirse de forma repentina, liberando también con ello toda la energía que había aparecido de la misma nada dando origen así al Cosmos: Había nacido la Deidad que Representa Todo en el Universo.
+
+Pero primero que nada y antes de continuar, sí, literalmente su nombre es "Todo en el Universo", así se llama. Aunque también se le puede llamar "La Voluntad del Cosmos" o "La Voluntad del Universo", cualquiera de esos tres nombres son válidos y hacen referencia a la misma Deidad Trascendente.
+
+Ahora sí continuando: Este proceso para el Nacimiento del UDE tal y como se conoce... En realidad se ha dado múltiples veces. El Universo, así como tiene un "origen", también tiene un "final". Y cada vez que el Universo llega al final de su existencia, le sigue otra era de completa y eterna oscuridad... La cual eventualmente termina al darse nuevamente el nacimiento del Universo otra vez.
+
+En términos astronómicos, el UDE constamente está pereciendo y volviendo a nacer como si se tratara de un Ave Fénix: "La Voluntad del Cosmos" está constantemente volviendo a la vida, por lo que incluso luego de que el Universo muera, éste siempre volverá a nacer.
+
+Esa es la naturaleza del UDE, simplemente así es como funciona.
+
+Además, cada vez que el Universo vuelve a nacer, lo hace con características distintas, por lo que las características que definimos al principio de esta documentación en realidad son solo las caracteríscas con las que nació en esta iteración en particular.
+
+Como dato curioso, La Voluntad del Cosmos recuerda todas y cada una de sus iteraciones anteriores; así que incluso tras morir, esta Deidad recuerda las formas y rasgos que tuvo el Universo en su versión pasada junto a todas las anteriores.
