@@ -1,6 +1,7 @@
 
 
 
+
 # Información Desordenada
 
 > **⚠ Advertencia ⚠**
@@ -248,6 +249,12 @@ Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente
 A pesar de que se encuentra en un estado de letargo así como el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir.
 
 Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
+
+Sin embargo, dejando de lado sus características como cuerpo celeste, La Luz Eterna al igual que todas las demás Deidades Primigenias, tenía otra apariencia antes de entrar en su estado actual de letargo.
+
+<img src="https://i.imgur.com/UXVDlra.jpg" alt="Una misteriosa figura humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas" />
+
+Como se puede apreciar en la imagen, la verdadera forma de la Deidad Primigenia conocida como La Luz Eterna es la de una humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas a la vez que todo su ser no deja de emanar una poderosa aura de energía.
 
 ## Vulcano: El Lucero del Alba
 Vulcano, 
