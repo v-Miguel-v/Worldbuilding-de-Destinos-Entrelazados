@@ -256,6 +256,11 @@ Sin embargo, dejando de lado sus características como cuerpo celeste, La Luz Et
 
 Como se puede apreciar en la imagen, la verdadera forma de la Deidad Primigenia conocida como La Luz Eterna es la de una humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas a la vez que todo su ser no deja de emanar una poderosa aura de energía.
 
+Tras nacer, La Luz Eterna se encontró con un Universo recién nacido.
+No habían planetas, y absolutamente todo estaba en completo Caos: A pesar de que en muchas partes el espacio aún estaba sumido en completa oscuridad, muchas otras zonas del mismo, incluso sin luz, no paraban de cambiar: Materia chocaba contra materia, distintos tipos de energía reaccionaban entre sí dando lugar a fenónmenos inimaginables que al igual que ella misma parecían emerger de la aparente nada. Sin embargo, no había nadie igual a ella. Ni con su nivel de consciencia, ni con su nivel de poder que con tan solo pasar cerca de lugares con un mínimo de materia y/o energía, parecía dotarlos de vida y luz.
+
+Pero eventualmente... Encontró a otros como ella que también poco a poco empezaban a emerger de la nada. Pero eso ya lo mencionaremos en las demás Deidades Primigenias.
+
 ## Vulcano: El Lucero del Alba
 Vulcano, 
 
@@ -269,7 +274,7 @@ En nuestro mundo, cuando llegan a la mente esas preguntas, en muchos casos se su
 
 En Destinos Entrelazados, la respuesta a esa pregunta está en la Deidad Trascendente que representa Todo en el Universo: La Voluntad del Cosmos.
 
-Hace mucho pero mucho tiempo, antes de la existencia de la realidad tal y como se conoce, solo había oscuridad. No habían estrellas, ni planetas... Ni siquiera energía. No había nada. Únicamente era un espacio vacío en el que incluso la misma concepción del tiempo carecía de significado. El Universo permaneció en este estado durante una eternidad, pero de pronto, de la aparente nada, todo se comprimió con fuerza: El Espacio-Tiempo en sí mismo se redujo de forma abrupta en un único punto, y tras ello, una cantidad inconmensurablemente infinita de energía emergió: Haciendo el espacio volviera a expandirse de forma repentina, liberando también con ello toda la energía que había aparecido de la misma nada dando origen así al Cosmos: Había nacido la Deidad que Representa Todo en el Universo.
+Hace mucho pero mucho tiempo, antes de la existencia de la realidad tal y como se conoce, solo había oscuridad. No habían estrellas, ni planetas... Ni siquiera energía. No había nada. Únicamente era un espacio vacío en el que incluso la misma concepción del tiempo carecía de significado. El Universo permaneció en este estado durante una eternidad, pero de pronto, de la aparente nada, todo se comprimió con fuerza: El Espacio-Tiempo en sí mismo se redujo de forma abrupta en un único punto, y tras ello, una cantidad infinita de energía emergió: Haciendo que el espacio volviera a expandirse de forma repentina transformando toda esa energía que había aparecido de la misma nada en incontables formas de materia, dando origen así al Cosmos: Había nacido la Deidad que Representa Todo en el Universo.
 
 Pero primero que nada y antes de continuar, sí, literalmente su nombre es "Todo en el Universo", así se llama. Aunque también se le puede llamar "La Voluntad del Cosmos" o "La Voluntad del Universo", cualquiera de esos tres nombres son válidos y hacen referencia a la misma Deidad Trascendente.
 
@@ -282,3 +287,9 @@ Esa es la naturaleza del UDE, simplemente así es como funciona.
 Además, cada vez que el Universo vuelve a nacer, lo hace con características distintas, por lo que las características que definimos al principio de esta documentación en realidad son solo las caracteríscas con las que nació en esta iteración en particular.
 
 Como dato curioso, La Voluntad del Cosmos recuerda todas y cada una de sus iteraciones anteriores; así que incluso tras morir, esta Deidad recuerda las formas y rasgos que tuvo el Universo en su versión pasada junto a todas las anteriores.
+
+Pero bueno, habiendo aclarado ello, contemos algo de historia, ¿les parece?
+
+Cuando el Universo volvió a nacer, la energía infinita que desprendió el resurgir de la Voluntad del Cosmos dio lugar a una inconmensurable cantidad de materia y muchos otros tipos de energía, las cuales poco a poco definieron la estructura y configuración de la iteración actual del Universo: Se establecieron las leyes físicas que regirían este Cosmos, así como también las de los demás planos de la existencia que inmediatamente surgieron también tras ello.
+
+Sin embargo, además de lo anterior... Hubo algunas zonas del universo que, después de su nacimiento tras su repentina expansión, se vieron dotadas de enormes acumulaciones de la energía primordial de la misma Voluntad del Cosmos. Estas peculiares zonas en las que se acumuló mucha de esa energía (quizás como consecuencia de la configuración inicial inherente del Cosmos en sus estados iniciales o quizás debido a las leyes físicas resultantes que tuvo esta iteración en particular)... Fueron las que dieron origen a las Deidades Primigenias.
