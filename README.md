@@ -83,14 +83,14 @@ Estas religiones que se forman alrededor de la adoración de las deidades, les c
 
 Actualmente, a fecha de la última actualización del repositorio, en Destinos Entrelazados hay un total de 14 Deidades:
 
- 1. El Sol: La Luz Eterna.
- 2. Vulcano: El Lucero del Alba.
- 3. La Tierra: Aún sin apodo definido.
- 4. La Luna: Aún sin apodo definido.
- 5. Oasis: Aún sin apodo definido.
- 6. Planeta sin nombre 2.
- 7. Planeta sin nombre 3.
- 8. Todo en el Universo: La Voluntad del Cosmos.
+ 1. Todo en el Universo: La Voluntad del Cosmos.
+ 2. El Sol: La Luz Eterna.
+ 3. Oasis: Aún sin apodo definido.
+ 4. Ventus: Aún sin apodo definido.
+ 5. Subterra: Aún sin apodo definido.
+ 6. Vulcano: El Lucero del Alba.
+ 7. La Tierra: Aún sin apodo definido.
+ 8. La Luna: Aún sin apodo definido.
  9. El Espacio-Tiempo.
  10. Deirah: La Diosa de los Dragones.
  11. Tsukikow: La Kitsune de 9 Colas.
@@ -134,6 +134,15 @@ Aclarado ello, **si de verdad entonces todos los Planetas, las Lunas y el Sol so
 En un lejano pasado, todas las Deidades Primigenias tenían un papel activo y constante en el universo, pero en algún momento... Su reinado llegó a su fin. Todas entraron en un estado de letargo y descanso en el que su energía bajó al mínimo y todas sus capacidades y habilidades quedaron casi completamente mermadas, haciendo que a pesar de su imponente renombre como Deidades, ya no pudieran diferenciarse demasiado de unos meros objetos astronómicos orbitando.
 
 Este estado de letargo es algo que incluso continúa a día de hoy, y es la razón principal por la cual, a ojos de los meros mortales, los planetas, las lunas y el mismo sol sean solo... Eso: Objetos Astronómicos. Y no entidades comparables a las Deidades a las que están acostumbrados a venerar.
+
+Además de ello, son las principales responsables de la vida.
+Si bien, una Deidad es capaz de crear vida, el procedimiento no es algo sencillo. Es difícil crear vida; incluso para una Deidad Mayor. Sin embargo, con las Deidades Primigenias esto es completamente diferente ya que sus poderes son tales que... Su mera existencia y presencia ya promueve la creación de la vida.
+
+Por poner un ejemplo: El Sol, con su mera existencia, hace que en sus alrededores nazca vida. Y así mismo con el resto de las demás Deidades Primigenias.
+
+Es por ello que los planetas del UDE están bastante más llenos de vida en comparación con los planetas del sistema solar de nuestro mundo. Debido a que la mera existencia y presencia de las Deidades Primigenias crea y promueve la existencia de vida, esta es una de sus principales características que las diferencia del resto de Deidades.
+
+Tanto así, que es directamente más difícil para una Deidad Primigenia no crear ni promover la existencia de nueva vida.
 
 <!-- Recordatorio: Agregar la explicación de "qué fue lo que ocasionó que el Reinado de las Deidades Primigenias llegara a su fin" y abundar más acerca del hecho de "cómo pueden despertar de su letargo" más adelante -->
 
@@ -237,37 +246,9 @@ Entonces... ¿Siempre que se muere una Deidad nace un Vestigio? En realidad no. 
 
 El último caso donde no nacen Vestigios es cuando la Deidad es un Semidiós. En estos casos, a no ser que el Semidiós sea muy poderoso, tampoco nacerá un Vestigio de ellos por el hecho de que los Semidioses no son completamente divinidades.
 
-## El Sol: La Luz Eterna
+## Todo en el Universo: La Voluntad del Cosmos
 Acabado de definir todo lo referente a las distintas formas en las que se pueden clasificar las deidades, ¿qué tal si empezamos a hablar ya directamente de ellas?
 
-*Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
-
-De todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
-
-Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en casi todos los contextos religiosos se le sigue conociendo también como "La Luz Eterna".
-
-A pesar de que se encuentra en un estado de letargo así como el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir.
-
-Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
-
-Sin embargo, dejando de lado sus características como cuerpo celeste, La Luz Eterna al igual que todas las demás Deidades Primigenias, tenía otra apariencia antes de entrar en su estado actual de letargo.
-
-<img src="https://i.imgur.com/UXVDlra.jpg" alt="Una misteriosa figura humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas" />
-
-Como se puede apreciar en la imagen, la verdadera forma de la Deidad Primigenia conocida como La Luz Eterna es la de una humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas a la vez que todo su ser no deja de emanar una poderosa aura de energía.
-
-Tras nacer, La Luz Eterna se encontró con un Universo recién nacido.
-No habían planetas, y absolutamente todo estaba en completo Caos: A pesar de que en muchas partes el espacio aún estaba sumido en completa oscuridad, muchas otras zonas del mismo, incluso sin luz, no paraban de cambiar: Materia chocaba contra materia, distintos tipos de energía reaccionaban entre sí dando lugar a fenónmenos inimaginables que al igual que ella misma parecían emerger de la aparente nada. Sin embargo, no había nadie igual a ella. Ni con su nivel de consciencia, ni con su nivel de poder que con tan solo pasar cerca de lugares con un mínimo de materia y/o energía, parecía dotarlos de vida y luz.
-
-Pero eventualmente... Encontró a otros como ella que también poco a poco empezaban a emerger de la nada. Pero eso ya lo mencionaremos en las demás Deidades Primigenias.
-
-## Vulcano: El Lucero del Alba
-Vulcano, 
-
-## La Tierra: Aún sin apodo definido
-La tierra del UDE mide 36 Mm (mientras que nuestra tierra mide 12,7 Mm).
-
-## Todo en el Universo: La Voluntad del Cosmos
 *¿Quién creó el Universo? ¿Cómo se originó todo?*
 
 En nuestro mundo, cuando llegan a la mente esas preguntas, en muchos casos se suele pensar en la deidad o deidades pertinentes de la religión a la que se siga, o también cosas como el "Big Bang" o la "Hiperinflación".
@@ -293,3 +274,48 @@ Pero bueno, habiendo aclarado ello, contemos algo de historia, ¿les parece?
 Cuando el Universo volvió a nacer, la energía infinita que desprendió el resurgir de la Voluntad del Cosmos dio lugar a una inconmensurable cantidad de materia y muchos otros tipos de energía, las cuales poco a poco definieron la estructura y configuración de la iteración actual del Universo: Se establecieron las leyes físicas que regirían este Cosmos, así como también las de los demás planos de la existencia que inmediatamente surgieron también tras ello.
 
 Sin embargo, además de lo anterior... Hubo algunas zonas del universo que, después de su nacimiento tras su repentina expansión, se vieron dotadas de enormes acumulaciones de la energía primordial de la misma Voluntad del Cosmos. Estas peculiares zonas en las que se acumuló mucha de esa energía (quizás como consecuencia de la configuración inicial inherente del Cosmos en sus estados iniciales o quizás debido a las leyes físicas resultantes que tuvo esta iteración en particular)... Fueron las que dieron origen a las Deidades Primigenias.
+
+## El Sol: La Luz Eterna
+*Muchísimo antes del establecimiento de las primeras civilizaciones, muchísimo antes del nacimiento de las primeras razas con inteligencia y consciencia, e incluso muchísimo antes de la formación de los primeros planetas... La mera presencia del sol ya impregnaba de vida y energía a todo el cosmos.*
+
+De todas las Deidades Primigenias, el Sol es la primera de todas ellas. No solo porque es, con mucha diferencia, la más poderosa, sino también porque es la más antigua al haber sido la primera en aparecer.
+
+Surgiendo como creación directa (o quizás indirecta) de la Deidad Trascendente que reprensenta Todo en el Universo, el Sol desde su nacimiento ha sido uno de los pilares fundamentales del mundo, actuando como el foco o la llama ancestral que ilumina el Cosmos. Y es debido a esta misma razón por la que, incluso a día de hoy, en casi todos los contextos religiosos se le sigue conociendo también como "La Luz Eterna".
+
+A pesar de que se encuentra en un estado de letargo así como el resto de las Deidades Primigenias, La Luz Eterna sigue siendo una Deidad increíblemente poderosa, al punto de que prácticamente todos los seres vivos en mayor o menor medida dependen de ella para existir.
+
+Entrando ahora en términos más astronómicos, La Luz Eterna, a pesar de que tiene un tamaño similar al Sol de nuestro propio mundo, es varias veces más masivo y luminoso. Siendo específicos, La Luz Eterna tiene un diámetro de 1 Gm (mientras que nuestro sol tiene un diámetro de 1,39 Gm) pero la energía y luminosidad que irradia es casi 10 veces la de nuestro propio sol. Además de lo anterior, La Luz Eterna es igualmente de color blanco, pero al igual que le sucede a nuestro sol, debido a la atmósfera de la Tierra su color se ve ligeramente alterado.
+
+Sin embargo, dejando de lado sus características como cuerpo celeste, La Luz Eterna al igual que todas las demás Deidades Primigenias, tenía otra apariencia antes de entrar en su estado actual de letargo.
+
+<img src="https://i.imgur.com/UXVDlra.jpg" alt="Una misteriosa figura humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas" />
+
+Como se puede apreciar en la imagen, la verdadera forma de la Deidad Primigenia conocida como La Luz Eterna es la de una humanoide femenina que aparenta estar hecha de fuego y rocas volcánicas a la vez que todo su ser no deja de emanar una poderosa aura de energía. Además, en su forma original La Luz Eterna tiene una longitud de 12 Gm.
+
+Tras nacer, La Luz Eterna se encontró con un Universo recién nacido.
+No habían planetas, y absolutamente todo estaba en completo Caos: A pesar de que en muchas partes el espacio aún estaba sumido en completa oscuridad, muchas otras zonas del mismo, incluso sin luz, no paraban de cambiar: Materia chocaba contra materia, distintos tipos de energía reaccionaban entre sí dando lugar a fenónmenos inimaginables que al igual que ella misma parecían emerger de la aparente nada. Sin embargo, no había nadie igual a ella. Ni con su nivel de consciencia, ni con su nivel de poder que con tan solo pasar cerca de lugares con un mínimo de materia y/o energía, parecía dotarlos de vida y luz.
+
+Pero eventualmente... Encontró a otros como ella que también poco a poco empezaban a emerger de la nada.
+
+## Oasis: Aún sin apodo definido
+Oasis tiene un diámetro de 65 Mm (los planetas Neptuno y Urano de nuestro mundo miden apróximadamente 50 Mm cada uno).
+
+Oasis es un planeta océano.
+Es el único planeta con anillos de todo el UDE.
+
+## Ventus: Aún sin apodo definido
+Ventus tiene un diámetro de 83 Mm (los planetas Neptuno y Urano de nuestro mundo miden apróximadamente 50 Mm cada uno).
+
+Ventus es un planeta gaseoso, lleno de aire y viento.
+Aunque tiene islas y continentes flotantes.
+
+## Subeterra: Aún sin apodo definido
+Subterra tiene un diámetro de X Mm.
+
+## Vulcano: El Lucero del Alba
+Vulcano mide 10 Mm (la Tierra de nuestro mundo mide 12,7 Mm mientras que Mercurio apenas mide 4,9 Mm).
+
+## La Tierra: Aún sin apodo definido
+La tierra del UDE mide 36 Mm (mientras que nuestra tierra mide 12,7 Mm).
+
+<!-- Los Elfos han poblado casi todos los planetas del UDE, por lo que en cierta forma son la raza que más se ha extendido por el universo. Debido a su gran sabiduría e inteligencia, han sabido habitar prácticamente todos los mundos, existiendo las subrazas de los Elfos de la Tierra, los de Oasis, los de Ventus, los del ShadowFell, y quizás otros más. -->
